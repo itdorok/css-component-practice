@@ -6,12 +6,6 @@
 
 <br>
 
-### [1. display: none](#💡-display-none)
-
-### [2. svg icon 👀](https://developer.mozilla.org/ko/docs/Web/SVG)
-
-### [3. grid]()
-
 <br>
 
 <h2 id="none">💡 display none</h2>
@@ -25,6 +19,8 @@ javaScript를 이용해서 펼치고 접는다.
 <br>
 
 <h2 id="none">💡 SVG icon</h2>
+
+[> svg icon 👀](https://developer.mozilla.org/ko/docs/Web/SVG)
 
 ```
 Scalable Vector Graphics
