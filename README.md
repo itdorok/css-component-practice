@@ -10,4 +10,4 @@
 
 ### [hero](./hero/README.md)
 
-### [layout-practice](06-app-layout.html)
+### [layout-practice](app-layout/README.md)
