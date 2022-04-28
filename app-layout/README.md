@@ -1,4 +1,4 @@
-## grid template
+## grid
 
 ```
 grid-row
